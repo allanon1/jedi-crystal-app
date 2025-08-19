@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/jedi-tracker/'
+  base: '/jedi-crystal-app/'
 });
