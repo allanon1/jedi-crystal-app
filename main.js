@@ -1,3 +1,7 @@
-import { App } from './components/App.js';
+import App from './App.js';
+import ForceBalanceCircle from './ForceBalanceCircle.js';
+import Navigation from './Navigation.js';
+import XPSystem from './XPSystem.js';
 
-document.querySelector('#app').appendChild(App());
+// Initialize app
+App();
